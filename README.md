@@ -1,3 +1,3 @@
-#Titanic-Survival-Prediction
+# Titanic-Survival-Prediction
 
-##Classifies the survival of Titanic passengers.
+## Classifies the survival of Titanic passengers.
